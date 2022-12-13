@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=La+Belle+Aurore&family=Oswald&display=swap');
+h1{
+    background-color: lightcoral;
+    font-size = 40px;
+    color: beige;
+    font-family: 'Oswald', sans-serif;
+  }
+  p{
+      background-color: cornflowerblue; 
+      font-size: 20px;
+      color: pink;
+      font-family: 'La Belle Aurore', cursive;
+  }
+             
