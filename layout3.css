@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    height:100%
+}
+.container{
+    background-color: rgb(7, 40, 7);
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+}
+.left-column{
+    width:55%;
+
+}
+.heading{
+    font-weight: 850;
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    margin-top: 70px;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+.second-section{
+    font-size: 30px;
+    color:white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-bottom: 90px;
+}
+.third-section{
+    font-size:25px;
+    color: white;
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-bottom: 45px;
+}
+.right-column{
+    width:45%;
+}
+img{
+    width: 45%;
+    height: 100%;
+    position: absolute;
+}
+.last{
+    margin-left:35px;
+    background-color: yellow;
+    border: 0px;
+}
